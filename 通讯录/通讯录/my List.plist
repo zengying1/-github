@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Canady</string>
+		<key>phone</key>
+		<string>111</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bill</string>
+		<key>phone</key>
+		<string>110</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ciri	</string>
+		<key>phone</key>
+		<string>101</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Siri</string>
+		<key>phone</key>
+		<string>980</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Xioo</string>
+		<key>phone</key>
+		<string>333</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Abort	</string>
+		<key>phone</key>
+		<string>444</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Vart</string>
+		<key>phone</key>
+		<string>555</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dival</string>
+		<key>phone</key>
+		<string>555</string>
+	</dict>
+</array>
+</plist>
